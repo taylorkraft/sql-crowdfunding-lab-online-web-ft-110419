@@ -18,7 +18,7 @@
 -- INSERT INTO users VALUES (18, "Molly", 23);
 -- INSERT INTO users VALUES (19, "Nora", 24);
 -- INSERT INTO users VALUES (20, "Andrew", 24);
--- 
+--
 -- INSERT INTO projects VALUES (1, "Kickstarter", "Creative", 10000, 2019-01-10, 2020-01-10);
 -- INSERT INTO projects VALUES (2, "Indiegogo", "Personal", 5000, 2019-06-01, 2020-12-01);
 -- INSERT INTO projects VALUES (3, "RocketHub", "Creative", 10500, 2019-01-01, 2019-12-01);
@@ -29,7 +29,7 @@
 -- INSERT INTO projects VALUES (8, "Sellaband", "Creative", 3500, 2019-06-01, 2019-12-31);
 -- INSERT INTO projects VALUES (9, "Appbackr", "Personal", 20000, 2020-02-16, 2021-02-16);
 -- INSERT INTO projects VALUES (10, "Crowdfunder", "Fundraise", 12500, 2020-01-01, 2021-01-01);
--- 
+--
 -- INSERT INTO pledges VALUES (1, 10, 16, 1);
 -- INSERT INTO pledges VALUES (2, 100, 1, 10);
 -- INSERT INTO pledges VALUES (3, 25, 3, 2);
@@ -108,4 +108,3 @@ INSERT INTO pledges (id, amount, user_id, project_id) VALUES
 (28, 90.00, 17, 9),
 (29, 230.00, 16, 6),
 (30, 450.00, 15, 5);
-
