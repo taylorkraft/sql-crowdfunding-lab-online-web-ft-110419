@@ -1,1 +1,20 @@
-INSERT INTO users VALUES (20)
+INSERT INTO users VALUES (1, "Taylor", 24);
+INSERT INTO users VALUES (2, "Nicole", 25);
+INSERT INTO users VALUES (3, "Chris", 31);
+INSERT INTO users VALUES (4, "Kaitlin", 27);
+INSERT INTO users VALUES (5, "Bradley", 19);
+INSERT INTO users VALUES (6, "Lauren", 29);
+INSERT INTO users VALUES (7, "Steph", 27);
+INSERT INTO users VALUES (8, "Shannon", 24);
+INSERT INTO users VALUES (9, "Alexis", 24);
+INSERT INTO users VALUES (10, "Dustin", 25);
+INSERT INTO users VALUES (11, "Ken", 49);
+INSERT INTO users VALUES (12, "Maegan", 26);
+INSERT INTO users VALUES (13, "Lee", 27);
+INSERT INTO users VALUES (14, "Joe", 28);
+INSERT INTO users VALUES (15, "Brendan", 27);
+INSERT INTO users VALUES (16, "Brycen", 27);
+INSERT INTO users VALUES (17, "Jake", 22);
+INSERT INTO users VALUES (18, "Molly", 23);
+INSERT INTO users VALUES (19, "Nora", 24);
+INSERT INTO users VALUES (20, "Andrew", 24);
